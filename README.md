@@ -1,20 +1,25 @@
-# Hi there! Let's get to know each other! 👋
+<div align="start">
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>👩‍💻 I'm a frontend developer.</li>
-        <li>💻 I work with React, Next.js, and React Native.</li>
-        <li>😄 Cheerful, active, and a team player.</li>
-        <li>🚀 Always learning new things because perfection has no limits.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://ih1.redbubble.net/image.5292131909.9696/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" alt="Profile Image" width="200" />
-    </td>
-  </tr>
-</table>
+### Hi there! Let's get to know each other! 👋
+  <table style="width: 100%; border: none;">
+    <tr>
+      <td>
+        <ul>
+          <li>👩‍💻 I'm a frontend developer.</li>
+          <br/>
+          <li> 💻 I work with React, Next.js, and React Native.</li> <br/>
+          <li>💃 Cheerful, active, and a team player.</li> <br/>
+          <li> 🚀 Always learning new things because perfection has no limits.</li> <br/>
+          <li> ✨ I thrive on challenges, love finding the most optimal solutions, solving intriguing problems, exploring new technologies, and deepening my knowledge every day!</li>
+        </ul>
+      </td>
+      <td style="text-align: center; vertical-align: top;">
+        <img src="https://ih1.redbubble.net/image.5292131909.9696/st,small,507x507-pad,600x600,f8f8f8.u4.jpg" alt="Profile Image" style="width: 300px; border-radius: 50%;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ### 🌐 Connect with me:  
@@ -56,3 +61,4 @@
 ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+
