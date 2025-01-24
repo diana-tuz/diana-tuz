@@ -8,7 +8,8 @@
 
 - 🚀 Always learning new things because perfection has no limits.
 
-  
+### 🌐 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-tuz12/)
 [my cv here](https://drive.google.com/file/d/1SRGuv3_kyxIHnOS4k5zAXDUkWB1dvXYT/view?usp=sharing)
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
@@ -43,6 +44,3 @@
 ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
-
-### Контакти:
-- GitHub: [твій_лінк_на_гітхаб](https://github.com/твій_лінк_на_гітхаб)
