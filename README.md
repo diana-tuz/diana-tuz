@@ -10,7 +10,9 @@
 
 ### 🌐 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-tuz12/)
-[my cv here](https://drive.google.com/file/d/1SRGuv3_kyxIHnOS4k5zAXDUkWB1dvXYT/view?usp=sharing)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dianatuz12@gmail.com)  
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/diana_tuz)
+### [My CV](https://drive.google.com/file/d/1SRGuv3_kyxIHnOS4k5zAXDUkWB1dvXYT/view?usp=sharing)
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
